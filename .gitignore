@@ -1,0 +1,9 @@
+*~
+*#
+.#*
+*.swp
+.DS_Store
+/.settings/
+/.project
+/.buildpath
+/.cache
